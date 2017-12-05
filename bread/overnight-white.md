@@ -1,6 +1,6 @@
 # Overnight White Bread
 
-![bread pic](/img/overnight_white.jpg)
+![](https://nickjalbert.github.io/recipes/img/bread/overnight-white.jpg)
 
 ## Ingredients
 
