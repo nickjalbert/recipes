@@ -31,10 +31,10 @@
   Well-floured hands help a lot.
 
 * **Proof:** Place dough into parchment lined dutch oven seam side up.  Flour
-  the bread, cover, and allow it to proof for 1.5-3hr
+  the bread, cover, and allow it to proof for 1.5-3hr.
 
-* **Bake:** Place covered dutch oven into oven.  Set oven to "convection bake"
-  at 425 degrees.  Allow to bake for 1hr with cover on
+* **Cold-Start Bake:** Place covered dutch oven into oven.  Set oven to "convection bake"
+  at 425 degrees.  Allow to bake for 1hr with cover on.
 
 * **Crisp:** Remove cover from dutch oven.  Allow the bake to finish for
   15-20min until bread is an appetizing color.
@@ -45,4 +45,4 @@
 ## Notes
 
 * On Day 2, it takes about 4hr to go from the "Shape" step to ready-to-eat
-  bread
+  bread.
