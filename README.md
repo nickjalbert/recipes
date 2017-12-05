@@ -1,2 +1,3 @@
-# recipes
-Recipes
+# Recipes
+
+Recipes that have turned out well.
