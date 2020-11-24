@@ -5,6 +5,7 @@
 This flexible recipe produces a hearty soup or curry mash (depending on how
 much water you use).
 
+**Total time**: ~2 hours
 
 ## Ingredients
 
