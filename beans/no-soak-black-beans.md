@@ -46,4 +46,4 @@ Quick way to turn dried black beans into something tasty.
 
 ## See also
 
-* https://www.epicurious.com/expert-advice/soaking-salting-dried-bean-myths-article
+* [How to Cook Beans: The Epicurious Myth-Busting Guide](https://www.epicurious.com/expert-advice/soaking-salting-dried-bean-myths-article)

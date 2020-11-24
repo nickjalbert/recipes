@@ -4,6 +4,14 @@ Recipes that have turned out well.
 
 * [Home](https://nickjalbert.github.io/recipes/)
 
+## Lentils
+
+* [Curried Lentil Soup](https://nickjalbert.github.io/recipes/lentils/curried-lentil-soup)
+
+## Beans
+
+* [No-Soak Black Beans](https://nickjalbert.github.io/recipes/beans/no-soak-black-beans)
+
 ## Bread
 
 * [Overnight White](https://nickjalbert.github.io/recipes/bread/overnight-white)
