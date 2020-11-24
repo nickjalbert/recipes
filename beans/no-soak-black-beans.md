@@ -10,8 +10,8 @@ Quick way to turn dried black beans into something tasty.
 
 * 450g Dried black beans
 * 3 tbsp olive oil
-* 3 smashed garlic cloves
-* 1 small onion
+* 4 smashed garlic cloves
+* 1 med onion
 
 ### Spices
 
@@ -39,7 +39,8 @@ Quick way to turn dried black beans into something tasty.
   1/2 hours total.
 * **Seasoning:**
     * Heat 3 tbsp olive oil in a large pan
-    * Sautee onion, garlic, and red pepper until garlic starts to brown
+    * Sautee garlic and red pepper until garlic starts to brown
+    * Add onion saute for ~5min
     * Add beans to pan, cook ~20min
     * Add bay leaf, cumin, black pepper and cook until thick (another ~20min)
     * Finish with a dash of balsamic vinegar (not too much though!)
