@@ -8,7 +8,7 @@ Quick way to turn dried black beans into something tasty.
 
 ## Ingredients
 
-* Dried black beans
+* 450g Dried black beans
 * 3 tbsp olive oil
 * 3 smashed garlic cloves
 * 1 small onion
