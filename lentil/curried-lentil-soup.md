@@ -28,6 +28,8 @@ much water you use).
 * 2 tsp veggie broth seasoning powder
 * 1.5+ tbsp tomato paste
 * Dried red peppers to taste
+* Salt
+* Pepper
 
 ### Garnish with
 
