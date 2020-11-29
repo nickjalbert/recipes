@@ -47,7 +47,12 @@ much water you use).
 * Add curry, cumin, thyme, black pepper, salt.  Fry until fragrant
 * Add veggie broth powder, carrots, lentils, tomato, tomato paste, and tomato
   juice
-* Add hot water until soupy, bring to simmer, simmer ~45min with lid on
+* Add hot water until soupy, bring to simmer, simmer ~1hr with lid on
   stirring occasionally
 * Adjust spices while cooking (adding more tomato paste, curry, cumin, salt,
   pepper, red pepper as needed)
+
+
+## Notes
+
+* 300g onion, 200g carrot, 4 cloves garlic.  Sweated onions v nice.
