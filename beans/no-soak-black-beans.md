@@ -35,12 +35,11 @@ Quick way to turn dried black beans into something tasty.
 * Stir in 1 tsp. kosher salt (careful here, can always add more later).
 * Cover and bring to a boil over medium heat.
 * Reduce heat and simmer until beans are tender and creamy, checking after
-  45min and adding more water as necessary to keep beans submerged, 45min
-  to 1 hour total.
+  45min and adding more water as necessary to keep beans submerged.
 * **Seasoning:**
     * Heat 3 tbsp olive oil in a large pan.
     * Sautee garlic and red pepper until garlic starts to brown.
-    * Add onion saute for ~5min.
+    * Add onion and saute for ~5min.
     * Add beans to pan, then add bay leaf, cumin (not too crazy on the cumin),
       black pepper and cook until thick (another ~20min).
     * Finish with a dash of balsamic vinegar (not too much though!).
