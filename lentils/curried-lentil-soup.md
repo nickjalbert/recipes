@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Curried Lentil Soup"
+date:   2020-12-08 12:00:00 -0400
+author: Nick Jalbert
+---
+
 ## Description
 
 This flexible recipe produces a hearty soup or curry mash (depending on how
