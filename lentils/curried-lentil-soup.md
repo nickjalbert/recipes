@@ -1,5 +1,3 @@
-# Curried Lentil Soup
-
 ## Description
 
 This flexible recipe produces a hearty soup or curry mash (depending on how
