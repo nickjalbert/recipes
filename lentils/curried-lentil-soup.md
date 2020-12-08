@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Curried Lentil Soup"
-date:   2020-12-08 12:00:00 -0400
 author: Nick Jalbert
 ---
 
