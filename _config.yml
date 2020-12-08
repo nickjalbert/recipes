@@ -21,7 +21,7 @@
 title: Nick's Recipes
 email: nick@jalbert.io
 description: >- # this means to ignore newlines until "baseurl:"
-    Basic recipes that have worked well
+    Basic recipes
     
    
 baseurl: "/recipes" # the subpath of your site, e.g. /blog
