@@ -1,8 +1,4 @@
-# Recipes
-
-Recipes that have turned out well.
-
-* [Home](https://nickjalbert.github.io/recipes/)
+Simple, flexible recipes that turn out well.
 
 ## Lentils
 

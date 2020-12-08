@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple vegan spaghetti sauce
+A simple vegan spaghetti sauce.
 
 **Total time**: 1 to 1.5 hours
 
