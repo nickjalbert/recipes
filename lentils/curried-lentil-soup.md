@@ -5,14 +5,12 @@ date:   2020-12-08 12:00:00 -0400
 author: Nick Jalbert
 ---
 
-## Description
-
 This flexible recipe produces a hearty soup or curry mash (depending on how
 much water you use).
 
 **Total time**: ~2 hours
 
-## Ingredients
+### Ingredients
 
 * 350g yellow/orange lentil, rinsed
 * 250g jarred tomatoes (~3/4 a jar), chopped
@@ -23,7 +21,7 @@ much water you use).
 * 15g olive oil
 * Hot water as needed
 
-### Spices
+**Spices**
 
 * 3 med cloves garlic, minced
 * 1 tsp mustard seed
@@ -36,14 +34,14 @@ much water you use).
 * Salt
 * Pepper
 
-### Garnish with
+**Garnish with**
 
 * Cilantro 
 * Sour cream
 * Spinach
 * Lemon
 
-## Instructions
+### Instructions
 
 * Heat mustard seeds on dry pan over medium high heat until they toast and pop
 * Add butter and oil, melt and let it heat up
@@ -58,6 +56,6 @@ much water you use).
   pepper, red pepper as needed)
 
 
-## Notes
+### Notes
 
 * 300g onion, 200g carrot, 4 cloves garlic.  Sweated onions v nice.
