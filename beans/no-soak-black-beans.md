@@ -1,6 +1,8 @@
-# No-Soak Black Beans
-
-## Description
+---
+layout: post
+title:  "No-Soak Black Beans"
+author: Nick Jalbert
+---
 
 Quick way to turn dried black beans into something tasty.
 
@@ -13,7 +15,7 @@ Quick way to turn dried black beans into something tasty.
 * 4 smashed garlic cloves
 * 1 med onion
 
-### Spices
+**Spices**
 
 * 1 tsp of cumin
 * 1.5 Bay leaf
@@ -21,7 +23,7 @@ Quick way to turn dried black beans into something tasty.
 * Salt
 * Pepper
 
-### Garnish with
+**Garnish with**
 
 * Cilantro
 

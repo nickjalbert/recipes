@@ -1,4 +1,9 @@
-# Overnight White Bread
+---
+layout: post
+title:  "Overnight White Bread"
+author: Nick Jalbert
+---
+
 
 ![](https://nickjalbert.github.io/recipes/img/bread/overnight-white.jpg)
 
@@ -9,9 +14,9 @@
 * 8g salt
 * 1g yeast
 
-## Procedure
+## Instructions
 
-### Day 1
+#### Day 1
 
 * **Autolyse:**  Warm water in microwave.  Mix with flour.  Let sit for 30min.
 
@@ -24,7 +29,7 @@
 * **Fold:** Optional.  1-2hr after the rise has started, gently fold dough 1-3
   times.
 
-### Day 2
+#### Day 2
 
 * **Shape:** After 18-24hr of rising, gently ease dough out of its container
   onto floured surface.  Gently fold the dough and invert.  Tighten the dough.
@@ -46,3 +51,7 @@
 
 * On Day 2, it takes about 4hr to go from the "Shape" step to ready-to-eat
   bread.
+
+<!-- ## Changes -->
+
+<!-- ## See also -->

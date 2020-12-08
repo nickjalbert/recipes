@@ -9,7 +9,7 @@ much water you use).
 
 **Total time**: ~2 hours
 
-### Ingredients
+## Ingredients
 
 * 350g yellow/orange lentil, rinsed
 * 250g jarred tomatoes (~3/4 a jar), chopped
@@ -40,7 +40,7 @@ much water you use).
 * Spinach
 * Lemon
 
-### Instructions
+## Instructions
 
 * Heat mustard seeds on dry pan over medium high heat until they toast and pop.
 * Add butter and oil, melt and let it heat up.
@@ -55,6 +55,10 @@ much water you use).
   pepper, red pepper as needed).
 
 
-### Notes
+## Notes
 
-* 300g onion, 200g carrot, 4 cloves garlic.  Sweated onions v nice.
+* 300g onion, 200g carrot, 4 cloves garlic.  Sweated onions turned out v nice.
+
+<!-- ## Changes -->
+
+<!-- ## See also -->

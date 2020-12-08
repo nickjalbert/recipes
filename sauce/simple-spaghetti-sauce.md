@@ -1,6 +1,8 @@
-# Simple Spaghetti Sauce
-
-## Description
+---
+layout: post
+title:  "Simple Spaghetti Sauce"
+author: Nick Jalbert
+---
 
 A simple vegan spaghetti sauce.
 
@@ -15,7 +17,7 @@ A simple vegan spaghetti sauce.
 * 20oz can of whole tomatoes, chopped
 * 1tbsp Tomato paste
 
-### Spices
+**Spices**
 
 * Black pepper
 * Hot red pepper flakes
