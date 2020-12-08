@@ -42,17 +42,17 @@ much water you use).
 
 ### Instructions
 
-* Heat mustard seeds on dry pan over medium high heat until they toast and pop
-* Add butter and oil, melt and let it heat up
-* Add garlic and red pepper, saute for ~1min until garlic starts to brown
-* Add onions, saute for 5-10min until onions start to brown
-* Add curry, cumin, thyme, black pepper, salt.  Fry until fragrant
+* Heat mustard seeds on dry pan over medium high heat until they toast and pop.
+* Add butter and oil, melt and let it heat up.
+* Add garlic and red pepper, saute for ~1min until garlic starts to brown.
+* Add onions, saute for 5-10min until onions start to brown.
+* Add curry, cumin, thyme, black pepper, salt.  Fry until fragrant (~2min).
 * Add veggie broth powder, carrots, lentils, tomato, tomato paste, and tomato
-  juice
+  juice.
 * Add hot water until soupy, bring to simmer, simmer ~1hr with lid on
-  stirring occasionally
+  stirring occasionally.
 * Adjust spices while cooking (adding more tomato paste, curry, cumin, salt,
-  pepper, red pepper as needed)
+  pepper, red pepper as needed).
 
 
 ### Notes
