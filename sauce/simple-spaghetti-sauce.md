@@ -37,12 +37,12 @@ A simple vegan spaghetti sauce.
 * Simmer for 30min to 1hr.
 * Serve over Barilla #3 spaghetti or similar.
 
- ## Notes
+## Notes
 
  * My batch on Dec 8 2020 was too acidic, might have used too many tomatoes
    (threw in an extra half jar) or too much tomato paste.  Tried to mellow it
    with some sugar.  Found this
-   [suggestion](https://www.quora.com/How-do-you-make-spaghetti-less-acidic?share=1):
+   [suggestion](https://www.quora.com/How-do-you-make-spaghetti-less-acidic):
 
 > Taste the sauce when close to being done. If it seems too acidic, put in a
 > pinch--I REALLY MEAN a PINCH of baking soda (not baking powder, we want
