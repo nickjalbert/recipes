@@ -1,4 +1,4 @@
-# No-Soak Black Beans
+# Simple Spaghetti Sauce
 
 ## Description
 
