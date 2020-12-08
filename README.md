@@ -12,6 +12,10 @@ Recipes that have turned out well.
 
 * [No-Soak Black Beans](https://nickjalbert.github.io/recipes/beans/no-soak-black-beans)
 
+## Sauce
+
+* [Simple Spaghetti Sauce](https://nickjalbert.github.io/recipes/sauce/simple-spaghetti-sauce)
+
 ## Bread
 
 * [Overnight White](https://nickjalbert.github.io/recipes/bread/overnight-white)
