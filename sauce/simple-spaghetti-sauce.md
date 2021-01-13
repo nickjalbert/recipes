@@ -29,11 +29,11 @@ A simple vegan spaghetti sauce.
 * Cut bulb of garlic crosswise, put both top and bottom in hot olive oil.
 * Allow garlic to turn golden (~10min).
 * Remove garlic (you can eat the nicely roasted garlic now).
-* Add chopped green onion and hot pepper, turn heat up a bit to medium-low, and
-  fry for ~5min.
-* Add black olives, fry until well done (~20min, careful olives will spit oil
-  when you add them.  Should be somewhat shriveled and not rubbery).
-* Add in whole tomatoes, tomato paste, salt, and pepper.
+* Turn heat up to medium-low
+* Add black olives and chopped green onion and fry until well done (~20min,
+  careful olives will spit oil when you add them.  Should be somewhat shriveled
+  and not rubbery).
+* Add in whole tomatoes, tomato paste, red pepper, salt, and pepper.
 * Simmer for 30min to 1hr.
 * Serve over Barilla #3 spaghetti or similar.
 
