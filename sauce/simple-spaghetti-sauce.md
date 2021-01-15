@@ -39,10 +39,10 @@ A simple vegan spaghetti sauce.
 
 ## Notes
 
- * My batch on Dec 8 2020 was too acidic, might have used too many tomatoes
-   (threw in an extra half jar) or too much tomato paste.  Tried to mellow it
-   with some sugar.  Found this
-   [suggestion](https://www.quora.com/How-do-you-make-spaghetti-less-acidic):
+* My batch on Dec 8 2020 was too acidic, might have used too many tomatoes
+  (threw in an extra half jar) or too much tomato paste.  Tried to mellow it
+  with some sugar.  Found this
+  [suggestion](https://www.quora.com/How-do-you-make-spaghetti-less-acidic):
 
 > Taste the sauce when close to being done. If it seems too acidic, put in a
 > pinch--I REALLY MEAN a PINCH of baking soda (not baking powder, we want
@@ -54,6 +54,11 @@ A simple vegan spaghetti sauce.
 > have to teach your tongue. Baking soda and sugar, then salt and finally
 > spices. You may have to go back and start over with the additions in that
 > order if the final product is not perfectly excellent.
+
+* Note, be **very** careful with sugar or baking soda (very, very small
+  pinches).  I've put too much in and ruined the sauce before (very
+  disheartening).
+
 
 <!-- ## Changes -->
 
