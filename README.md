@@ -12,6 +12,12 @@ Simple, flexible recipes that turn out well.
 
 * [Simple Spaghetti Sauce](https://nickjalbert.github.io/recipes/sauce/simple-spaghetti-sauce)
 
+
+## Sides
+
+* [Pico de Gallo](https://nickjalbert.github.io/recipes/sides/pico-de-gallo)
+
+
 ## Bread
 
 * [Overnight White](https://nickjalbert.github.io/recipes/bread/overnight-white)
