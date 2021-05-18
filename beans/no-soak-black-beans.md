@@ -44,14 +44,15 @@ Quick way to turn dried black beans into something tasty.
     * Sautee garlic and red pepper until garlic starts to brown.
     * Add onion and saute for ~5min.
     * Add beans to pan, then add bay leaf, cumin (not too crazy on the cumin),
-      black pepper and cook until thick (another ~20min).
+      black pepper, and veggie stock (optional) and cook until thick (another
+      ~20min).
     * Finish with a dash of balsamic vinegar (not too much though!).
 
 ## Notes
 
 * Adding some butter might be a nice touch.
-* I have in the past: over-salted, over-cumin'd, and over-vinegar'd.  A light
-  touch is rewarded!
+* I have in the past: over-salted, over-cumin'd, over-veggie-stock'd, and
+  over-vinegar'd.  A light touch is rewarded!
 * I have added a bit (maybe 1 or 2 tsp, max 1 tbsp) of veggie stock powder and
   it turned out well.  Watch the salt in this case, though.
 
