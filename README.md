@@ -1,5 +1,9 @@
 Simple, flexible recipes that turn out well.
 
+## Mains
+
+* [Seitan](https://nickjalbert.github.io/recipes/mains/seitan)
+
 ## Lentils
 
 * [Curried Lentil Soup](https://nickjalbert.github.io/recipes/lentils/curried-lentil-soup)
