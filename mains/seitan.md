@@ -48,6 +48,16 @@ An excellent meat substitute composed of flour and spices.
 
 * Work in progress recipe
 
+* 3:1 flour to water (knead until its a smooth dough ball)
+* Place the dough in a bowl covered by water, rest 1 to 8 hours (16:30 - 18:30)
+* Wash the dough; knead underwater
+* Rest the dough for 1 hour (18:35 - )
+* Add in seasoning: garlic, nutritional yeast, onion, salt, pepper, paprika
+* Stretch and knot the dough
+* pan fry in olive oil
+* simmer for 45 min in olive oil, veggie stock, and soy sauce
+* Let rest in fridge for 8 hours
+
 ## Changes
 
 
@@ -55,3 +65,6 @@ An excellent meat substitute composed of flour and spices.
 
 * [Flour to vegan chicken recipe (seitan)](https://old.reddit.com/r/vegan/comments/loyhec/flour_to_vegan_chicken_recipe_seitan/)
     * [Recipe GIF](https://imgur.com/ByC9Wme)
+
+* [Seitan Society: Wash the Flour Method](https://seitansociety.com/wash-the-flour-method/)
+* [How to make perfect seitan](https://www.onegreenplanet.org/vegan-food/how-to-make-perfect-seitan/)
