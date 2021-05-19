@@ -38,8 +38,8 @@ An excellent meat substitute composed of flour and spices.
 * Rest 1 hour.
 * Twist and knot.
 * Pan fry in hot oil until you get a nice sear on both sides.
-* Add veggie stock and soy sauce to pain (careful, the hot oil will spit). Note
-  - don't cover it in liquid, just need a shallow layer.
+* Add veggie stock and soy sauce to pain (careful, the hot oil will spit). Note:
+  don't cover it in liquid, just need a shallow layer.
 * Simmer covered for ~45min.  Note: don't boil it, just need a shallow coat of
   liquid.
 * Let cool, rest in fridge for ~8 hours for its texture to really come together.
