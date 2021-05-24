@@ -59,6 +59,11 @@ A simple vegan spaghetti sauce.
   pinches).  I've put too much in and ruined the sauce before (very
   disheartening).
 
+## TODO
+
+* Add olives after the garlic but BEFORE the green onion and fry them until
+  they're almost done (olives take a while and the green onion sometimes
+  becomes too crispy if added at the same time)
 
 <!-- ## Changes -->
 
