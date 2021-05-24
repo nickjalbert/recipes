@@ -58,10 +58,10 @@ An excellent meat substitute composed of flour and spices.
 * simmer for 45 min in olive oil, veggie stock, and soy sauce
 * Let rest in fridge for 8 hours
 
-* Result 1: May 21, 2021 - This came out overly dense.  I suspect I could add a
-  bit more broth and wash it better.   Still very tasty; pan fried slices in a
-  store-bought garlic wing sauce and made little sandwiches on baguette with
-  cheese, tomato, lettuce, and mustard.
+* Result 1: May 21, 2021 - This came out overly dense.  I suspect I could knead
+  it more, wash it better, and add a bit more broth.   Still very tasty; pan
+  fried slices in a store-bought garlic wing sauce and made little sandwiches
+  on baguette with cheese, tomato, lettuce, and mustard.
 
 ## Changes
 
