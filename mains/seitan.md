@@ -49,14 +49,19 @@ An excellent meat substitute composed of flour and spices.
 * Work in progress recipe
 
 * 3:1 flour to water (knead until its a smooth dough ball)
-* Place the dough in a bowl covered by water, rest 1 to 8 hours (16:30 - 18:30)
+* Place the dough in a bowl covered by water, rest 1 to 8 hours (2 hours most recently)
 * Wash the dough; knead underwater
-* Rest the dough for 1 hour (18:35 - )
+* Rest the dough for 1 hour
 * Add in seasoning: garlic, nutritional yeast, onion, salt, pepper, paprika
 * Stretch and knot the dough
 * pan fry in olive oil
 * simmer for 45 min in olive oil, veggie stock, and soy sauce
 * Let rest in fridge for 8 hours
+
+* Result 1: May 21, 2021 - This came out overly dense.  I suspect I could add a
+  bit more broth and wash it better.   Still very tasty; pan fried slices in a
+  store-bought garlic wing sauce and made little sandwiches on baguette with
+  cheese, tomato, lettuce, and mustard.
 
 ## Changes
 
