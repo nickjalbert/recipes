@@ -28,7 +28,7 @@ is now."
 
 * You can experiment with the coffee : water ratio.
 
-## Changes
+<!-- ## Changes -->
 
 
-## See also
+<!-- ## See also -->
