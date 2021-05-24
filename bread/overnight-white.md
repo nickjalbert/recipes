@@ -52,6 +52,8 @@ author: Nick Jalbert
 * On Day 2, it takes about 4hr to go from the "Shape" step to ready-to-eat
   bread.
 
+* Adapted from Lahey's [No Knead Bread](https://cooking.nytimes.com/recipes/11376-no-knead-bread) and Forkish's [Overnight White](https://www.amazon.com/Flour-Water-Salt-Yeast-Fundamentals/dp/160774273X/ref=sr_1_2)
+
 <!-- ## Changes -->
 
 <!-- ## See also -->
