@@ -3,6 +3,7 @@ Simple, flexible recipes that turn out well.
 ## Mains
 
 * [Seitan](https://nickjalbert.github.io/recipes/mains/seitan)
+* [Veggie Lasagne](https://nickjalbert.github.io/recipes/mains/lasagne)
 
 ## Lentils
 
