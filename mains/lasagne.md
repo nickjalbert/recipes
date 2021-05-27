@@ -83,6 +83,7 @@ Vegetarian Lasagne.
 * Mushrooms and spinach might have been a bit much, might do one or the other
   next time.
 * Ingredient amounts seem real flexible.
+* You can assemble the lasagna and then freeze it for cooking later.
 
 <!-- ## Changes -->
 
