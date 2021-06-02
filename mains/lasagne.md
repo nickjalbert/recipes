@@ -57,7 +57,8 @@ Vegetarian Lasagne.
 * Deglaze the bottom of the pot with balsamic vinegar.
 * Add tomatoes and juice from jar, a bit of water, bay leaf, salt, and pepper.
 * Lower heat to low and simmer 20 to 30 minutes. 
-* You can balance acidity with a bit of sweet red wine.
+* You can balance acidity with a bit of sweet red wine (careful!  A little goes
+  a long way and oversweet is no good).
 
 **Filling**
 
@@ -84,6 +85,18 @@ Vegetarian Lasagne.
   next time.
 * Ingredient amounts seem real flexible.
 * You can assemble the lasagna and then freeze it for cooking later.
+* The most recent one I made had 3 main problems:
+
+    1. Too much cheese on top.  Don't drown it in cheese or you'll get a gross
+       gooey overlayer.
+
+    2. The sauce was too sweet.  It was just about right but then I still
+       wanted to add some martini ross and it ended up being too much.
+       Preserve your acidity!
+
+    3. I used fresh mushrooms in the sauce, but they released a bunch of water
+       during the bake so the lasagna was overly soggy.  Drying the mushrooms
+       in the oven beforehand (and maybe the spinach too) should fix this.
 
 <!-- ## Changes -->
 
