@@ -64,3 +64,4 @@ Quick way to turn dried black beans into something tasty.
 ## See also
 
 * [How to Cook Beans: The Epicurious Myth-Busting Guide](https://www.epicurious.com/expert-advice/soaking-salting-dried-bean-myths-article)
+* But, maybe skip the quick soak? [Common Bean Myths](https://captious.wordpress.com/2006/05/01/common-bean-myths/)
