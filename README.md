@@ -36,4 +36,4 @@ Simple, flexible recipes that turn out well.
 Various recipes that I'm not yet convinced about but that I've had some success
 with.
 
-* [Frittata](https://github.com/nickjalbert/recipes/blob/master/in_progress/frittata.jpg) ([Original](https://www.reddit.com/r/recipes/comments/4f70mq/easy_breakfast_frittata/))
+* [Frittata](https://github.com/nickjalbert/recipes/blob/master/in_progress/frittata.png) ([Original](https://www.reddit.com/r/recipes/comments/4f70mq/easy_breakfast_frittata/))
