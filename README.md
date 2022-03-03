@@ -30,3 +30,10 @@ Simple, flexible recipes that turn out well.
 ## Drinks
 
 * [Cold Brew Coffee](https://nickjalbert.github.io/recipes/drinks/cold-brew)
+
+## In Progress
+
+Various recipes that I'm not yet convinced about but that I've had some success
+with.
+
+* [Frittata](https://github.com/nickjalbert/recipes/blob/master/in_progress/frittata.jpg)
